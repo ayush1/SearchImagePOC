@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchImagePOC</string>
+    <string name="option">Option</string>
+    <string name="search">Search</string>
+    <string name="no_internet">No internet connection available</string>
+    <string name="no_data_fetch_from_API">Something Went Wrong, please try again later.</string>
+</resources>
